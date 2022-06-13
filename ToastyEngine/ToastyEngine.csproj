@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Library</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MathSharp" Version="2.0.0-pre" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ToastyEngine.Windowing\ToastyEngine.Windowing.csproj" />
+    </ItemGroup>
+
+</Project>

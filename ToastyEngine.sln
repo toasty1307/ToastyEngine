@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastyEngine", "ToastyEngine\ToastyEngine.csproj", "{B19429EE-2F83-4048-887D-FEEB9B75F0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastyEngine.TestApp", "ToastyEngine.TestApp\ToastyEngine.TestApp.csproj", "{954553A0-5505-4C32-A80A-3E92A326263C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastyEngine.Windowing", "ToastyEngine.Windowing\ToastyEngine.Windowing.csproj", "{B1E30BE4-6F38-49EC-86F7-EABCE7EEFBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B19429EE-2F83-4048-887D-FEEB9B75F0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19429EE-2F83-4048-887D-FEEB9B75F0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19429EE-2F83-4048-887D-FEEB9B75F0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19429EE-2F83-4048-887D-FEEB9B75F0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954553A0-5505-4C32-A80A-3E92A326263C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954553A0-5505-4C32-A80A-3E92A326263C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954553A0-5505-4C32-A80A-3E92A326263C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954553A0-5505-4C32-A80A-3E92A326263C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E30BE4-6F38-49EC-86F7-EABCE7EEFBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E30BE4-6F38-49EC-86F7-EABCE7EEFBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E30BE4-6F38-49EC-86F7-EABCE7EEFBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E30BE4-6F38-49EC-86F7-EABCE7EEFBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
